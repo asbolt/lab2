@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "main.h"
+#include "precision_analysis"
 
 double precision_analysis (double *radioactivity, double *time, int N)
        {
